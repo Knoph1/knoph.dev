@@ -1,6 +1,6 @@
 # 🔥 Knoph Ayieko's Portfolio — [knoph.dev](https://www.knoph.dev)
 
-![Portfolio Banner](https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/og-banner.png)
+![Portfolio Banner](https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png)
 
 > ⚙️ _The **Automagic Portfolio**: Designed to evolve. Built to inspire. Crafted by Knoph Ayieko._
 
