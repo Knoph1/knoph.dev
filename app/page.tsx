@@ -10,19 +10,19 @@ export const metadata: Metadata = {
   title: "Knoph O. Ayieko | Web Developer | IT Specialist | Virtual Assistant",
   description:
     "Portfolio of Knoph O. Ayieko, a Full Stack Developer passionate about crafting impactful digital solutions",
-  keywords: ["developer", "portfolio", "full stack", "web development", "IT specialist", "virtual assistant"],
+  keywords: ["knoph.dev", "developer", "portfolio", "full stack", "web development", "software developer", "web developer", "IT specialist", "IT consultant", "virtual assistant"],
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://knophayieko.dev",
-    title: "Knoph O. Ayieko | Web Developer | IT Specialist | Virtual Assistant",
+    title: "Knoph O. Ayieko | Software Developer | IT Specialist | Virtual Assistant",
     description:
       "Portfolio of Knoph O. Ayieko, a Full Stack Developer passionate about crafting impactful digital solutions",
     siteName: "Knoph O. Ayieko Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Knoph O. Ayieko | Web Developer | IT Specialist | Virtual Assistant",
+    title: "Knoph O. Ayieko | Software Developer | IT Specialist | Virtual Assistant",
     description:
       "Portfolio of Knoph O. Ayieko, a Full Stack Developer passionate about crafting impactful digital solutions",
     creator: "@Knoph_OL_A",
@@ -41,7 +41,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
             Hi, I'm <span className="text-primary">Knoph O. Ayieko</span>
           </h1>
-          <p className="text-xl md:text-2xl text-muted-foreground">Web Developer | IT Specialist | Virtual Assistant</p>
+          <p className="text-xl md:text-2xl text-muted-foreground">Software Developer | IT Specialist | Virtual Assistant</p>
           <p className="text-lg text-muted-foreground">
             Full Stack Developer passionate about crafting impactful digital solutions.
           </p>
@@ -85,7 +85,7 @@ export default function Home() {
           </div>
           <div className="pt-4">
             <p className="text-muted-foreground">
-              Direct contact: <span className="font-medium">+254 740 327 958</span> (Calls, SMS & WhatsApp)
+              Direct contact:<br><span className="font-medium">+254 740 327 958</span> (Calls, SMS & WhatsApp)
             </p>
           </div>
           <div className="pt-8 flex gap-4 justify-center">
@@ -107,7 +107,7 @@ export default function Home() {
             <p className="text-muted-foreground">
               Knoph Oluoch Ayieko is a multifaceted professional with a strong foundation in web and software
               development, IT systems support and virtual assistance. He possesses hands-on expertise in full-stack web
-              technologies including Node.js, Express.js, MongoDB, MySQL, and React, complemented by experience in
+              technologies including Node.js, Express.js, MongoDB, MySQL and React, complemented by experience in
               database management, API development, system integration and DevOps fundamentals. In parallel, he brings
               proficiency in administrative support, digital productivity tools, online communication platforms,
               research and client relationship management. Beyond technical capabilities, Knoph is distinguished by
