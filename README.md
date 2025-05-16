@@ -89,13 +89,27 @@ This project follows a progressive semantic versioning system.
 
 💼 [LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ knophayieko@gmail.com
 
-[![Email](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg)](mailto:knophayieko@gmail.com)
-[![Telegram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg)](https://t.me/@Knoph1)
-[![Instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://instagram.com/https://www.instagram.com/knoph_ol_a)
-[![Facebook](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg)](https://web.facebook.com/noah.knock.5/)
-[![Discord](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg)](https://discord.com/users/@Knoph1)
-[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/knoph-ayieko-83464918a)
-[![Twitter](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg)](https://x.com/Knoph_OL_A)
+<a href="mailto:knophayieko@gmail.com">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" alt="Email"/>
+</a>
+<a href="https://t.me/Knoph1">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="20" alt="Telegram"/>
+</a>
+<a href="https://www.instagram.com/knoph_ol_a">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="20" alt="Instagram"/>
+</a>
+<a href="https://web.facebook.com/noah.knock.5/">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="20" alt="Facebook"/>
+</a>
+<a href="https://discord.com/users/Knoph1">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="20" alt="Discord"/>
+</a>
+<a href="https://www.linkedin.com/in/knoph-ayieko-83464918a">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="20" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Knoph_OL_A">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="20" alt="X (Twitter)"/>
+</a>
 
 _Developer | Educator | Researcher | Visionary_
 
