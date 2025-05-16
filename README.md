@@ -102,6 +102,9 @@ This project follows a progressive semantic versioning system.
 <a href="https://discord.com/users/Knoph1">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="20" alt="Discord"/>
 </a>
+<a>
+  ![LinkedIn](https://github.com/Knoph1/Knoph.dev/main/public/linkedin-svgrepo-com.svg)
+</a>
 <a href="https://www.linkedin.com/in/knoph-ayieko-83464918a">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="20" alt="LinkedIn"/>
 </a>
