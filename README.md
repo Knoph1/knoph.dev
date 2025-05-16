@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
 
-> ⚙️ _The **Auto-magic Portfolio**: Designed to evolve. Built to inspire. Crafted by **Knoph O. Ayieko**._
+> ⚙️ _The **Auto-magic Portfolio**: Designed to evolve. Built to inspire. Crafted by **Knoph**._
 
 ---
 
