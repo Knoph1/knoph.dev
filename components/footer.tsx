@@ -11,7 +11,7 @@ export default function Footer() {
             <span className="font-bold">Knoph O. Ayieko</span>
           </Link>
           <p className="text-sm text-muted-foreground text-center md:text-left">
-            Web Developer | IT Specialist | Virtual Assistant
+            Software Developer | IT Specialist | Virtual Assistant
           </p>
         </div>
 
