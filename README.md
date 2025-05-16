@@ -89,6 +89,14 @@ This project follows a progressive semantic versioning system.
 
 💼 [LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ knophayieko@gmail.com
 
+[![Email](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg)](mailto:knophayieko@gmail.com)
+[![Telegram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg)](https://t.me/@Knoph1)
+[![Instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://instagram.com/https://www.instagram.com/knoph_ol_a)
+[![Facebook](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg)](https://web.facebook.com/noah.knock.5/)
+[![Discord](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg)](https://discord.com/users/@Knoph1)
+[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/knoph-ayieko-83464918a)
+[![Twitter](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg)](https://x.com/Knoph_OL_A)
+
 _Developer | Educator | Researcher | Visionary_
 
 ---
