@@ -103,7 +103,7 @@ This project follows a progressive semantic versioning system.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="20" alt="Discord"/>
 </a>
 <a href="https://www.linkedin.com/in/knoph-ayieko-83464918a">
-  <img src="https://github.com/Knoph1/knoph.dev/main/public/linkedin.svg" width="20" alt="LinkedIn"/>
+  <img src="https://github.com/Knoph1/knoph.dev/main/public/linkedin.png" width="20" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/Knoph_OL_A">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="20" alt="X (Twitter)"/>
