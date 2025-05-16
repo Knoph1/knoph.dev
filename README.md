@@ -1,6 +1,6 @@
 # Knoph's Portfolio — [knoph.dev](https://www.knoph.dev)
 
-<img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
+!<img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
 
 > ⚙️ _The **Automagic Portfolio**: Designed to evolve. Built to inspire. Crafted by Knoph Ayieko._
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-Welcome to my modern, fully automated, and scalable portfolio website — showcasing my journey as a developer, educator, and thinker.  
+Welcome to my modern, fully automated and scalable portfolio website — showcasing my journey as a software developer, IT specialist and Virtual Assistant.  
 It is hosted at: [https://www.knoph.dev](https://www.knoph.dev)
 
 This project serves as:
@@ -23,7 +23,7 @@ This project serves as:
 - **Framework**: Next.js (App Router)
 - **Styling**: TailwindCSS, ShadCN UI
 - **Animation**: Framer Motion
-- **Hosting**: [Vercel](https://vercel.com)
+- **Hosting**: [NameCheap](https://www.namecheap.com) & [Vercel](https://vercel.com)
 - **Domain**: [knoph.dev](https://www.knoph.dev)
 
 ---
@@ -57,10 +57,10 @@ To run the project locally:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Knoph1/Knoph-Ayieko-s-Portfolio.git
+git clone https://github.com/Knoph1/knoph.dev.git
 
 # 2. Navigate to project folder
-cd Knoph-Ayieko-s-Portfolio
+cd Knoph-dev
 
 # 3. Install dependencies
 npm install
@@ -96,3 +96,5 @@ This project is licensed under the **MIT License** — feel free to build, adapt
 ---
 
 ### ✨ "Stay wise. Build well. Live fully."
+
+---
