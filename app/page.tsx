@@ -14,11 +14,11 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://knophayieko.dev",
+    url: "https://knoph.dev",
     title: "Knoph O. Ayieko | Software Developer | IT Specialist | Virtual Assistant",
     description:
       "Portfolio of Knoph O. Ayieko, a Full Stack Developer passionate about crafting impactful digital solutions",
-    siteName: "Knoph O. Ayieko Portfolio",
+    siteName: "knoph.dev",
   },
   twitter: {
     card: "summary_large_image",
