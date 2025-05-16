@@ -87,9 +87,9 @@ This project follows a progressive semantic versioning system.
 
 > _Developer | Educator | Researcher | Visionary_
 
-💼 [LinkedIn](https://linkedin.com/in/knoph1) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ [Email](knophayieko@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ knophayieko@gmail.com
 
-knoph@knoph.dev
+[GitHub](https://github.com/Knoph1)
 
 ---
 
