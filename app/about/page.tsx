@@ -56,7 +56,7 @@ export default function AboutPage() {
                 platforms, managing IT projects and providing virtual assistance to diverse clients.
               </p>
               <p>
-                When I'm not immersed in code, I enjoy exploring new technologies, engaging in research, and
+                When I'm not immersed in code, I enjoy exploring new technologies, engaging in research and
                 contributing to community development initiatives.
               </p>
             </div>
@@ -70,7 +70,7 @@ export default function AboutPage() {
                 <p className="text-primary">O.L Enterprises & Services Co. Ltd. • January 2025 - Present</p>
                 <p className="text-muted-foreground">
                   Designed, developed, and maintained front-end and back-end systems using HTML, CSS, JavaScript,
-                  Node.js, and MongoDB. Created responsive, scalable, secure applications and delivered solutions via
+                  Node.js and MongoDB. Created responsive, scalable, secure applications and delivered solutions via
                   cross-functional collaboration. Handled the full development process for seamless user experience.
                 </p>
               </div>
@@ -79,7 +79,7 @@ export default function AboutPage() {
                 <h3 className="font-bold">Back-End Web Developer</h3>
                 <p className="text-primary">ALX Africa (Git-at-a-Startup) • November 2024 - January 2025</p>
                 <p className="text-muted-foreground">
-                  Developed Ashker Credit Solution's MVP. Built efficient, secure back-end systems using Python, Flask,
+                  Developed Ashker Credit Solution's MVP. Built efficient, secure back-end systems using Python, Flask
                   and SQL. Integrated backend with frontend and optimized databases. Collaborated with team to meet
                   deadlines and deliver client-ready product.
                 </p>
@@ -99,7 +99,7 @@ export default function AboutPage() {
                 <p className="text-primary">ALX Africa • July 2024 - September 2024</p>
                 <p className="text-muted-foreground">
                   Trained and certified as a professional virtual assistant. Gained skills in remote support,
-                  calendar/email management, data entry, CRM, and effective communication. Built administrative and
+                  calendar/email management, data entry, CRM and effective communication. Built administrative and
                   organizational capabilities.
                 </p>
               </div>
@@ -117,9 +117,9 @@ export default function AboutPage() {
                 <h3 className="font-bold">Entrepreneur – Café & Cyber Business Owner</h3>
                 <p className="text-primary">Self-Employed • January 2019 - December 2024</p>
                 <p className="text-muted-foreground">
-                  Founded and ran a local café and cyber business. Managed customer service, bookkeeping, and daily
+                  Founded and ran a local café and cyber business. Managed customer service, bookkeeping and daily
                   operations. Provided internet access, printing, and document services to the community. Developed a
-                  strong understanding of business management, customer relations, and tech support.
+                  strong understanding of business management, customer relations and tech support.
                 </p>
               </div>
             </div>
@@ -132,7 +132,7 @@ export default function AboutPage() {
               <p className="text-primary">University of Kabianga • 2019 - 2023</p>
               <p className="text-muted-foreground">
                 Awarded: Second Class Honours (Upper Division). Graduated with strong academic and hands-on experience
-                in software development, networking, databases, systems analysis, and IT project management. Final Year
+                in software development, networking, databases, systems analysis and IT project management. Final Year
                 Project: Medical Expert Desktop System for Diagnosis and Prescription.
               </p>
             </div>
