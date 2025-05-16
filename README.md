@@ -85,8 +85,9 @@ This project follows a progressive semantic versioning system.
 **Knoph O. Ayieko**
 > Software Developer | IT Specialist | Virtual Assistant
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Knoph1)
-
+<a href="https://github.com/Knoph1">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="20" alt="GitHub"/>
+</a>
 <a href="mailto:knophayieko@gmail.com">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" alt="Email"/>
 </a>
