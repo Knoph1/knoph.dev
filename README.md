@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
 
-> ⚙️ _The **Automagic Portfolio**: Designed to evolve. Built to inspire. Crafted by Knoph Ayieko._
+> ⚙️ _The **Auto-magic Portfolio**: Designed to evolve. Built to inspire. Crafted by **Knoph Ayieko**._
 
 ---
 
@@ -75,8 +75,8 @@ npm run dev
 
 This project follows a progressive semantic versioning system.
 
-- `v1.0.0`       — Initial Build
-- `v21.2.0`      — Current Milestone
+- `v1.0.0`        — Initial Build
+- `v21.2.0`       — Current Milestone
 
 ---
 
@@ -85,11 +85,11 @@ This project follows a progressive semantic versioning system.
 **Knoph O. Ayieko**
 > Software Developer | IT Specialist | Virtual Assistant
 
-> _Developer | Educator | Researcher | Visionary_
+_Developer | Educator | Researcher | Visionary_
 
 💼 [LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ knophayieko@gmail.com
 
-[GitHub](https://github.com/Knoph1)
+> [GitHub](https://github.com/Knoph1)
 
 ---
 
