@@ -7,7 +7,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "About Me | Knoph O. Ayieko Portfolio",
   description: "Learn more about Knoph O. Ayieko, a Full Stack Developer with expertise in modern web technologies",
-  keywords: ["about", "developer", "skills", "experience", "education"],
+  keywords: ["about", "about me", "developer", "software developer", "web developer", "skills", "experience", "work experience", "profession", "education", "education background"],
 }
 
 export default function AboutPage() {
