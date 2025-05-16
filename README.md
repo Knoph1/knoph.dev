@@ -1,6 +1,6 @@
 # Knoph's Portfolio — [knoph.dev](https://www.knoph.dev)
 
-!<img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
 
 > ⚙️ _The **Automagic Portfolio**: Designed to evolve. Built to inspire. Crafted by Knoph Ayieko._
 
@@ -84,8 +84,12 @@ This project follows a progressive semantic versioning system.
 
 **Knoph O. Ayieko**
 > Software Developer | IT Specialist | Virtual Assistant
+
 > _Developer | Educator | Researcher | Visionary_
-💼 [LinkedIn](https://linkedin.com/in/knoph1) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ knoph@knoph.dev
+
+💼 [LinkedIn](https://linkedin.com/in/knoph1) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ [Email](knophayieko@gmail.com)
+
+knoph@knoph.dev
 
 ---
 
