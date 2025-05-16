@@ -85,7 +85,7 @@ export default function Home() {
           </div>
           <div className="pt-4">
             <p className="text-muted-foreground">
-              Direct contact:<br><span className="font-medium">+254 740 327 958</span> (Calls, SMS & WhatsApp)
+              Direct contact:<br /><span className="font-medium">+254 740 327 958</span> (Calls, SMS & WhatsApp)
             </p>
           </div>
           <div className="pt-8 flex gap-4 justify-center">
