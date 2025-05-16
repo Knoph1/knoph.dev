@@ -87,8 +87,6 @@ This project follows a progressive semantic versioning system.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Knoph1)
 
-💼 [LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a) • 🌍 [knoph.dev](https://www.knoph.dev) • ✉️ knophayieko@gmail.com
-
 <a href="mailto:knophayieko@gmail.com">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" alt="Email"/>
 </a>
