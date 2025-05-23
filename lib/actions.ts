@@ -13,7 +13,8 @@ export async function sendContactForm(formData: z.infer<typeof formSchema>) {
   const validatedFields = formSchema.safeParse(formData)
 
   if (!validatedFields.success) {
-    throw new Error("Invalid form data")
+    const errorMessage = validatedFields.error.flatten().fieldErrors
+    throw new Error(JSON.stringify(errorMessage))
   }
 
   const { name, email, subject, message } = validatedFields.data
