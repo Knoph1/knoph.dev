@@ -47,7 +47,7 @@ export default function AboutPage() {
                 </Link>
               </Button>
               <Button variant="outline" className="w-full" asChild>
-                <a href="pblic/Resume - Knoph O. Ayieko.pdf" download="Resume - Knoph O. Ayieko.pdf">
+                <a href="pblic/Resume - Knoph O. Ayieko.pdf" download="Knoph O. Ayieko's RESUME.pdf">
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume
                 </a>
