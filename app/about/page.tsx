@@ -33,9 +33,14 @@ export default function AboutPage() {
                 <Link href="/contact">
                   Contact Me <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
-              </Button>
-              <Button variant="outline" className="w-full">
-                <Download className="mr-2 h-4 w-4" /> Download Resume
+              <Button variant="outline" className="w-full" asChild>
+                <a
+                  href="/public/Resume.pdf"
+                  download="Knoph-O. Ayieko - Resume.pdf"
+                >
+                <Download className="mr-2 h-4 w-4" />
+                  Download Resume
+                </a>
               </Button>
             </div>
           </div>
