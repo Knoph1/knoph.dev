@@ -7,7 +7,19 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "About Me | Knoph O. Ayieko Portfolio",
   description: "Learn more about Knoph O. Ayieko, a Full Stack Developer with expertise in modern web technologies",
-  keywords: ["about", "about me", "developer", "software developer", "web developer", "skills", "experience", "work experience", "profession", "education", "education background"],
+  keywords: [
+    "about",
+    "about me",
+    "developer",
+    "software developer",
+    "web developer",
+    "skills",
+    "experience",
+    "work experience",
+    "profession",
+    "education",
+    "education background",
+  ],
 }
 
 export default function AboutPage() {
@@ -33,6 +45,7 @@ export default function AboutPage() {
                 <Link href="/contact">
                   Contact Me <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
+              </Button>
               <Button variant="outline" className="w-full" asChild>
                 <a href="/Resume.pdf" download="Knoph-O. Ayieko - Resume.pdf">
                   <Download className="mr-2 h-4 w-4" />
@@ -58,8 +71,8 @@ export default function AboutPage() {
                 platforms, managing IT projects and providing virtual assistance to diverse clients.
               </p>
               <p>
-                When I'm not immersed in code, I enjoy exploring new technologies, engaging in research and
-                contributing to community development initiatives.
+                When I'm not immersed in code, I enjoy exploring new technologies, engaging in research and contributing
+                to community development initiatives.
               </p>
             </div>
           </section>
